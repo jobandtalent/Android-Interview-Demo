@@ -18,7 +18,7 @@ As we have previously mentioned in the first interviews at Jobandtalent, we valu
 
 There are 3 different options:
 
-### Option 1: Develop a small application
+### Option 1: Develop a small application (recommended)
 
 We ask you to create a simple app that shows a list of items and a detail with further information. We know it sounds super basic, from this you decide what you would like to show us from your skills and knowledge. 
 
